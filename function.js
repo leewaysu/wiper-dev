@@ -1,5 +1,4 @@
 
-
 function fillCarBrand(json) {
     fillSelect('CarBrand', getCarBrand(json));
     $('#CarBrand').trigger('change');
