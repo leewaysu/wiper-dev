@@ -953,6 +953,13 @@
     },
     {
         "car_brand": "BMW 寶馬",
+        "car_type": "X5",
+        "car_year": "2019～",
+        "wiper_size": "26+20",
+        "wiper_cnet": "B2"
+    },    
+    {
+        "car_brand": "BMW 寶馬",
         "car_type": "X6",
         "car_year": "2007～2012",
         "wiper_size": "24+20",
@@ -4169,7 +4176,7 @@
         "car_type": "TIIDA",
         "car_year": "2013 (BIG TIIDA)～",
         "wiper_size": "26+14",
-        "wiper_cnet": "通用型"
+        "wiper_cnet": "接頭通用型大勾9*4"
     },
     {
         "car_brand": "NISSAN 日產",
@@ -5246,8 +5253,8 @@
         "car_brand": "TOYOTA 豐田",
         "car_type": "Altis",
         "car_year": "2019/3 (十二代)～",
-        "wiper_size": "26+14",
-        "wiper_cnet": "通用型"
+        "wiper_size": "28+14",
+        "wiper_cnet": "E79"
     },
     {
         "car_brand": "TOYOTA 豐田",
