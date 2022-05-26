@@ -3735,7 +3735,7 @@
         "car_type": "Countryman",
         "car_year": "2017/3～",
         "wiper_size": "21+22",
-        "wiper_cnet": "無對應"
+        "wiper_cnet": "B1"
     },
     {
         "car_brand": "MINI 寶馬迷你",
@@ -4560,7 +4560,7 @@
         "car_brand": "PORSCHE 保時捷",
         "car_type": "Cayenne",
         "car_year": "2010 (二代 / 958)～2017/8",
-        "wiper_size": "24+24",
+        "wiper_size": "26+26",
         "wiper_cnet": "C"
     },
     {
@@ -4782,10 +4782,10 @@
     },
     {
         "car_brand": "SKODA 司科達",
-        "car_type": "Kamig",
+        "car_type": "Kamiq",
         "car_year": "2020",
-        "wiper_size": "24+19",
-        "wiper_cnet": "B1"
+        "wiper_size": "26+18",
+        "wiper_cnet": "接頭B2要折"
     },
     {
         "car_brand": "SKODA 司科達",
